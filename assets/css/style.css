@@ -69,3 +69,16 @@ td {
     padding: 5px;
     font-weight: bold;
 }
+
+#status{
+    color:orangered;
+    font-size: 20pt
+}
+
+#button-section{
+   border: 3px solid black;
+   margin: 10px;
+   padding:10px
+   /*spacing inside the border is padding // spacing between two elements is margin*/
+
+}
